@@ -17,10 +17,15 @@
 
 **MORE:**
 [Website](https://arrowos.net)
+
 [Telegram Group](https://t.me/arrowos)
+
 [Telegram Channel](https://t.me/arrow_os)
+
 [Source Code](https://github.com/arrowos)
+
 [Stats](https://stats.arrowos.net)
+
 [Blog](https://blog.arrowos.net)
 
 ![](https://cdn2.gsmarena.com/vv/pics/asus/asus-zenfone-3-ZE520KL.jpg)
