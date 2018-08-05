@@ -23,16 +23,24 @@ https://github.com/phhusson/treble_experimentations/wiki
 
 **MAINTAINER:** [Bauuuuu](https://github.com/bauuuuu)
 
-**GApps:** arm64 - 8.1 - Nano, Pico, Micro or Nano from [Open GApps](opengapps.org)
+**GApps:** arm64 - 8.1 - Nano, Pico, Micro or Nano from [Open GApps](https://opengapps.org)
 
 
 **MORE:**
-[Website](https;//arrowos.net)
-[Telegram Group](https;//t.me/arrowos)
-[Telegram Channel](https;//t.me/arrow_os)
-[Source Code](https;//github.com/arrowos)
-[Stats](https;//stats.arrowos.net)
-[Blog](https;//blog.arrowos.net)
+
+[Website](https://arrowos.net)
+
+[Telegram Group](https://t.me/arrowos)
+
+[Telegram Channel](https://t.me/arrow_os)
+
+[Source Code](https://github.com/arrowos)
+
+[Stats](https://stats.arrowos.net)
+
+[Blog](https://blog.arrowos.net)
+
+![](https://cdn2.gsmarena.com/vv/pics/lenovo/zuk-z2-2.jpg)
 
 EXTRA STUFF:
 ![](https://www1-lw.xda-cdn.com/files/2018/04/Project-Treble-Feature-Image.png)
