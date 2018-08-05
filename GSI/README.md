@@ -14,11 +14,17 @@ https://github.com/phhusson/treble_experimentations/wiki
 
 
 **ANDROID VERSION:** Android Oreo 8.1.x 
+
 **ARCH:** arm64 only
+
 **SLOT TYPE**  A only or A/B
+
 **XDA THREAD:** [Click Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-arrowos-gsi-t3819467)
+
 **MAINTAINER:** [Bauuuuu](https://github.com/bauuuuu)
+
 **GApps:** arm64 - 8.1 - Nano, Pico, Micro or Nano from [Open GApps](opengapps.org)
+
 
 **MORE:**
 [Website](https;//arrowos.net)

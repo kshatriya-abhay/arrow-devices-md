@@ -5,9 +5,13 @@
 **Arrow-OS 8.1.x Official for Nubia Z9 Max(nx512j)**
 
 **ANDROID VERSION:** Android Oreo 8.1.x 
+
 **ARCH:** arm64
+
 **MAINTAINER:** [Bauuuuu](https://github.com/bauuuuu)
+
 **GApps:** arm64 - 8.1 - Nano, Pico, Micro or Nano from [Open GApps](opengapps.org)
+
 **TREBLE ENABLED:** YES
 
 **MORE:**

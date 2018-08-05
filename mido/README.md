@@ -5,11 +5,17 @@
 **Arrow-OS 8.1.x Official for Redmi Note 4(mido)**
 
 **ANDROID VERSION:** Android Oreo 8.1.x 
+
 **XDA THREAD:** [Click Here](https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-arrowos-redmi-note-4-t3817519)
+
 **ARCH:** arm64
+
 **MAINTAINER:** [Ganesh Varma](https://t.me/ganeshvarma)
+
 **GApps:** arm64 - 8.1 - Nano, Pico, Micro or Nano from [Open GApps](opengapps.org)
+
 **TREBLE ENABLED:** YES
+
 
 **MORE:**
 [Website](https;//arrowos.net)
